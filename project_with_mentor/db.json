@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "username": "alex",
+      "age": "16",
+      "password": "1",
+      "isAdmin": {},
+      "id": 1
+    },
+    {
+      "username": "aki",
+      "age": "16",
+      "password": "12",
+      "isAdmin": {},
+      "id": 2
+    },
+    {
+      "username": "akii",
+      "age": "16",
+      "password": "1",
+      "isAdmin": true,
+      "id": 3
+    }
+  ],
+  "product": [
+    {
+      "id": 2,
+      "title": "title 2",
+      "desc": "desc",
+      "price": "price 2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQwJuq_coScqMZ6d3SD6mL_8NdNeqxkTM4LzNi9yFQT5zJZ_LjNLPit89L89U5zovPmlA&usqp=CAU",
+      "category": "category_water"
+    },
+    {
+      "title": "title1",
+      "price": "price 1",
+      "desc": "deck1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQwJuq_coScqMZ6d3SD6mL_8NdNeqxkTM4LzNi9yFQT5zJZ_LjNLPit89L89U5zovPmlA&usqp=CAU",
+      "category": "1",
+      "id": 3
+    },
+    {
+      "title": "title 3",
+      "price": "price3",
+      "desc": "deck",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSym596evnbpIZ-LF5TGgbNSYe1Hx0X4W1bd4v7DQrwkIe3z8xVGs_pwMeFNxK9orFMrAY&usqp=CAU",
+      "category": "category 3",
+      "id": 4
+    },
+    {
+      "title": "title",
+      "price": "price",
+      "desc": "desc",
+      "image": "https://funart.pro/uploads/posts/2021-03/1617041523_45-p-oboi-krasivie-foto-prirodi-52.jpg",
+      "category": "cate",
+      "id": 5
+    }
+  ]
+}
